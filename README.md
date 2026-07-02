@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently finishing learning dev-ops boot.dev, having finished the full-stack, back-end dev path
-- 🌱 I’m currently learning AWS and game development in Godot
+- 🔭 I completed my DevOps and Back End Developer certifcations on Boot.dev
+- 🌱 I’m currently learning game development in Godot
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I was the lead singer in an punk band for two performances. 
 
